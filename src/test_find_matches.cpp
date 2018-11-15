@@ -1,6 +1,6 @@
 #include "find_matches.h"
 #include <string>
-#include "utility.cpp"
+#include "utility.h"
 
 using namespace std;
 using namespace cv;
